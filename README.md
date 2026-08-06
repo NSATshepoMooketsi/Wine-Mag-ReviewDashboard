@@ -1,2 +1,11 @@
-# Wine-Mag-ReviewDashboard
-The objective of this project was to transform a publicly available wine review dataset into an interactive analytics dashboard that combines traditional Business Intelligence with text analytics. 
+# Wine-Mag-Review-Dashboard 📊
+*About Project*
+---
+The objective of this project was to transform a publicly available wine review dataset into an interactive analytics dashboard that combines traditional Business Intelligence with text analytics.
+![Landing Page](Images/Landing_Page.png)
+---
+## Live Dashboard 📊 
+
+👉 **[Launch Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiZDkwZDgwYjQtZDIxMS00NTQwLWI0ODQtZmE0ZGRiNjQ2ZGI1IiwidCI6IjJhYTYxN2E4LTI3NDItNDEwMi04NjgzLTFmYTMzZGE4Nzc3YiJ9&embedImagePlaceholder=true)**
+
+*Experience the interactive version of this dashboard in Power BI.*
