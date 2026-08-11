@@ -67,8 +67,9 @@ Removing numeric values from the extracted words.
 For example, variations such as Age, Aged and Ageing can be grouped under the canonical word Age. This allows the analysis to identify broader patterns in the language used by critics rather than treating every variation as a completely separate term.
 
 ### 1.3. The final model therefore contains two complementary analytical areas:
-**Wine Review Analysis**
-```
+### Wine Review Analysis
+
+```text
 Wine Review
 │
 ├── Price
@@ -76,16 +77,22 @@ Wine Review
 ├── Wine
 ├── Location
 ├── Taster
+│
 └── Bridge Wine Vintage
+       │
        ├── Decade
        └── Century
 ```
 **Review Language Analysis**
 ```
+---
+### Review Language Analysis
+
+```text
 Review Description
         │
         ↓
-Split into individual words
+Split into Individual Words
         │
         ↓
 ReviewWordFactDetail
@@ -100,5 +107,3 @@ ReviewWordFactDetail
                ├── Canonical Word
                ├── Attribute
                └── Category
-
-```
