@@ -1,12 +1,11 @@
 # Wine-Mag-Review-Dashboard 📊
 *About Project*
 ---
-The objective of this project was to transform a publicly available wine review dataset into an interactive analytics dashboard that combines traditional Business Intelligence with text analytics. The goal was to uncover insights into wine quality, geographical distribution, flavour profiles, wine styles and the descriptive language used by wine critics.
+The objective of this project was to transform a publicly available wine review dataset into an interactive analytics dashboard. The goal was to uncover insights into wine quality, geographical distribution, flavour profiles, wine styles and the language used by wine critics.
 
-To achieve this, reviewer descriptions were transformed from unstructured text into a dimensional text model through descriptor extraction, canonical word normalization and hierarchical classification. This enabled the analysis of flavour descriptors, tasting characteristics and reviewer vocabulary alongside traditional measures such as price, ratings and location.
-Beyond analytics, the project was designed to demonstrate end-to-end data modelling, data preparation, DAX development and visual storytelling. 
+Reviewer descriptions were extracted and transformed from unstructured text into a dimensional text model. This allowed the analysis of flavour descriptors, wine characteristics and reviewer vocabulary alongside traditional measures such as price, ratings and location.
 
-Inspired by the look and feel of a digital wine magazine the dashboard balances analytical depth with an engaging editorial design while creating an experience that appeals to both data professionals and wine enthusiasts.
+The other aim was to create a data-driven dashboard with a touch of creativity, making the analysis more inviting for both wine enthusiasts and analysts.
 
 
 ![Landing Page](Images/Landing_Page.png)
