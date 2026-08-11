@@ -111,7 +111,7 @@ ReviewWordFactDetail
 ```
 
 ## 2. Key insights
-### 2.1 What are the critics saying?
+### 2.1 What the critics are saying...
 
 - There are 1.09 reviews per wine on average, suggesting that most wines in the dataset have only been reviewed once.
 - Pinot Noir has been reviewed the most, followed by Chardonnay and Cabernet varieties.
