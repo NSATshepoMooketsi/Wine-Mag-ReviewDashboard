@@ -86,8 +86,6 @@ Wine Review
        ├── Decade
        └── Century
 ```
-**Review Language Analysis**
-```
 ---
 ### Review Language Analysis
 
