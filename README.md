@@ -16,24 +16,19 @@ The other aim was to create a data-driven dashboard with a touch of creativity, 
 
 *Experience the interactive version of this dashboard in Power BI.*
 
----
-
-## Business Problem
-
-The company needed to understand why customers were leaving and how churn could be reduced.
 
 ---
 
-## Dataset
+## Understanding the Dataset
 
-- 7,043 customers
-- Telecom industry
-- Contract, payment and service information
+- Dataset containing ~ 130 000 wine reviews
+-	Structured data including wine reviews, country, point, variety, winery, etc
+-	Unstructured text which comprised of reviewer text. 
+
 
 ---
 
-## 1. Key Questions 
-- *Who are our customers, which customers create value and which customers are at risk?*
-- *Whats is the impact of churn and who should we worry about?*
-- *Do refferals have an impact on churn?*
-- *Which services are most popular and which have high churn?*
+## 1. Data Cleaning
+   - Basic source data cleaning. 
+Changing data types, replacing null values for unknown reviewers and filtering out unnecessary data. 
+---
