@@ -30,8 +30,6 @@ The other aim was to create a data-driven dashboard with a touch of creativity, 
 
 ## 1. Data Modelling 
 
-Data Modelling
-
 The dataset was separated into two fact tables based on the different levels of detail within the data.
 
 The Wine Review fact table operates at review level and contains measures such as price and review points, together with foreign keys linking to the wine, location and taster dimensions. The Review Word fact table operates at individual word level, allowing the unstructured reviewer descriptions to be analysed as structured data.
