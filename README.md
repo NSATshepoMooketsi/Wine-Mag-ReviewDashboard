@@ -117,3 +117,7 @@ ReviewWordFactDetail
 - Pinot Noir has been reviewed the most, followed by Chardonnay and Cabernet varieties.
 - Most wines receive a rating between 86 and 91 points.
 - Wine variety appears to provide more opportunities for comparison than individual wine titles, with some varieties receiving substantially more reviews than others.
+
+- ---
+![Dashboard](Images/Customer_Insights_Loan_Performance_2.png)
+---
