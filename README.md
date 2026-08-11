@@ -109,4 +109,5 @@ ReviewWordFactDetail
                ├── Attribute
                └── Category
 ---
+
 ## 2. Key insights
