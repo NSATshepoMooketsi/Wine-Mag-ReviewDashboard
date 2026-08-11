@@ -28,7 +28,7 @@ The other aim was to create a data-driven dashboard with a touch of creativity, 
 
 ---
 
-## 1. Data Cleaning
-   - Basic source data cleaning. 
-Changing data types, replacing null values for unknown reviewers and filtering out unnecessary data. 
+## 1. Data Modelling 
+
+
 ---
