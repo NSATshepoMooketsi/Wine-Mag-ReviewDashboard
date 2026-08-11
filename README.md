@@ -108,7 +108,6 @@ ReviewWordFactDetail
                ├── Canonical Word
                ├── Attribute
                └── Category
-
----
+```
 
 ## 2. Key insights
