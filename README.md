@@ -66,5 +66,15 @@ Removing numeric values from the extracted words.
 
 For example, variations such as Age, Aged and Ageing can be grouped under the canonical word Age. This allows the analysis to identify broader patterns in the language used by critics rather than treating every variation as a completely separate term.
 
-The final model therefore contains two complementary analytical areas:
+### 1.3. The final model therefore contains two complementary analytical areas:
 ---
+Wine Review
+│
+├── Price
+├── Points
+├── Wine
+├── Location
+├── Taster
+└── Bridge Wine Vintage
+       ├── Decade
+       └── Century
