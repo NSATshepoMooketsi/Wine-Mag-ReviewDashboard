@@ -119,5 +119,5 @@ ReviewWordFactDetail
 - Wine variety appears to provide more opportunities for comparison than individual wine titles, with some varieties receiving substantially more reviews than others.
 
 - ---
-![Dashboard](Images/Customer_Insights_Loan_Performance_2.png)
+![Dashboard](Images/What_the_critics_are_saying.png)
 ---
