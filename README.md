@@ -29,26 +29,27 @@ The other aim was to create a data-driven dashboard with a touch of creativity, 
 ---
 
 ## 1. Data Modelling 
+### 1.1. Data Modelling
 
 The dataset was separated into two fact tables based on the different levels of detail within the data.
 
-The Wine Review fact table operates at review level and contains measures such as price and review points, together with foreign keys linking to the wine, location and taster dimensions. The Review Word fact table operates at individual word level, allowing the unstructured reviewer descriptions to be analysed as structured data.
+The **Wine Review fact table** operates at review level and contains measures such as price and review points, together with foreign keys linking to the wine, location and taster dimensions. The **Review Word fact table** operates at individual word level, allowing the unstructured reviewer descriptions to be analysed as structured data.
 
 The supporting dimensions were separated into their respective business entities:
 
-Location – country, province, region and sub-region
-Taster – reviewer information
-Wine – wine title, variety and winery
-Wine Review Distribution – review counts and review groups
-Bridge Wine Vintage – vintage information derived from the wine title
+- **Location** – country, province, region and sub-region
+- **Taster** – reviewer information
+- **Wine** – wine title, variety and winery
+- **Wine Review Distribution** – review counts and review groups
+- **Bridge Wine Vintage** – vintage information derived from the wine title
 
-The BridgeWineVintage table was created by extracting numeric values from the wine title. The title was split into individual components, the resulting columns were unpivoted, and non-numeric values were removed. This produced a separate vintage structure which was then used to derive decades and centuries for historical analysis.
+The **BridgeWineVintage** table was created by extracting numeric values from the wine title. The title was split into individual components, the resulting columns were unpivoted, and non-numeric values were removed. This produced a separate vintage structure which was then used to derive *decades and centuries* for historical analysis.
 
 Duplicate dimension records were removed and surrogate keys were introduced to provide unique identifiers for the dimension entities. The corresponding keys were then assigned to the fact tables, allowing the descriptive attributes to remain within their respective dimensions rather than being duplicated in the fact tables.
 
-The resulting model follows a star-schema approach, with the review-level fact table at the centre of the traditional wine analysis and the word-level fact table supporting the text analysis.
+The resulting model follows a star-schema approach, with the review-level fact table at the center of the traditional wine analysis and the word-level fact table supporting the text analysis.
 
-Text Analytics Model
+### 1.2. Text Analytics Model
 
 The second part of the model was created from the reviewer descriptions.
 
@@ -57,11 +58,11 @@ The original review description was unstructured and contained a large number of
 The text was then cleaned by:
 
 Removing numeric values from the extracted words.
-Creating a list of generic/stop words and filtering them from the analysis.
-Creating a Wine Classification table to categorise wine styles and broader categories.
-Creating a Wine Flavour table to classify flavour descriptions into flavours, families and broader categories.
-Creating a Wine Descriptor table to classify descriptive words by attribute and category.
-Creating a Wine Descriptor Normalisation table to group variations of similar words under a common canonical word.
+- Creating a list of generic/stop words and filtering them from the analysis.
+- Creating a **Wine Classification table** to categorise wine styles and broader categories.
+- Creating a **Wine Flavour table** to classify flavour descriptions into flavours, families and broader categories.
+- Creating a **Wine Descriptor table** to classify descriptive words by attribute and category.
+- Creating a **Wine Descriptor Normalisation table** to group variations of similar words under a common canonical word.
 
 For example, variations such as Age, Aged and Ageing can be grouped under the canonical word Age. This allows the analysis to identify broader patterns in the language used by critics rather than treating every variation as a completely separate term.
 
