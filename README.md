@@ -111,7 +111,7 @@ ReviewWordFactDetail
 ```
 
 ## 2. Key insights
-### 2.1 What the critics are saying...
+### 2.1 What the critics are saying
 
 - There are 1.09 reviews per wine on average, suggesting that most wines in the dataset have only been reviewed once.
 - Pinot Noir has been reviewed the most, followed by Chardonnay and Cabernet varieties.
@@ -122,13 +122,23 @@ ReviewWordFactDetail
 ![Dashboard](Images/What_the_critics_are_saying.png)
 ---
 
-### 2.1 Finding great wine without breaking the bank...
-
+### 2.2 Finding great wine without breaking the bank
 
 - Bordeaux-style Red Blend and Bordeaux-style White Blend both appear in the top 10 most expensive varieties.
 - A large proportion of the older wines in the dataset fall between the 1930s and 1960s.
 - There appears to be a positive relationship between average wine price and average rating, although higher prices do not always correspond to higher ratings.
 - The value-for-money analysis highlights several lower-priced varieties that achieve relatively strong review scores.
+
+---
+![Dashboard](Images/Where_great_wine_comes_from.png)
+----
+
+### 2.3 Where great wine comes from 
+
+- Europe and North America contain many of the higher-priced wine-producing regions in the dataset.
+- Switzerland has the highest proportion of premium-rated wines, although the number of wines represented is relatively small.
+- The data suggests a positive relationship between wine price and rating, with some higher-priced wines receiving higher average scores.
+- The geographic distribution also shows that the dataset is heavily represented by European and North American wine-producing regions.
 
 ---
 ![Dashboard](Images/Where_great_wine_comes_from.png)
