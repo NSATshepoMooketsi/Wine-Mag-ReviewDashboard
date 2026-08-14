@@ -7,7 +7,6 @@ Reviewer descriptions were extracted and transformed from unstructured text into
 
 The other aim was to create a data-driven dashboard with a touch of creativity, making the analysis more inviting for both wine enthusiasts and analysts.
 
-
 ![Landing Page](Images/Landing_Page.png)
 ---
 ## Live Dashboard 📊 
