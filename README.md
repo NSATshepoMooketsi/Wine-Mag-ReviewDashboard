@@ -109,7 +109,7 @@ ReviewWordFactDetail
                ├── Attribute
                └── Category
 ```
-### 1.3. The above diagram gives rise to three analytical layers 
+### 1.3. The above diagram provides the ability to break down the data into three analytical layers 
 - **Wine & Commercial Analysis**: Price, ratings, value, wine varieties, vintages and geographical distribution.
 - **Wine Classification**: Wine styles and categories, allowing the reviews to be grouped into broader wine characteristics.
 - **Review Language & Text Analytics**: Flavours, families, categories, descriptors, attributes and canonical words extracted from unstructured review descriptions.
