@@ -118,6 +118,18 @@ ReviewWordFactDetail
 - Most wines receive a rating between 86 and 91 points.
 - Wine variety appears to provide more opportunities for comparison than individual wine titles, with some varieties receiving substantially more reviews than others.
 
-- ---
+---
 ![Dashboard](Images/What_the_critics_are_saying.png)
 ---
+
+### 2.1 Finding great wine without breaking the bank...
+
+
+· Bordeaux-style Red Blend and Bordeaux-style White Blend both appear in the top 10 most expensive varieties.
+· A large proportion of the older wines in the dataset fall between the 1930s and 1960s.
+· There appears to be a positive relationship between average wine price and average rating, although higher prices do not always correspond to higher ratings.
+· The value-for-money analysis highlights several lower-priced varieties that achieve relatively strong review scores.
+
+---
+![Dashboard](Images/Where_great_wine_comes_from.png)
+----
