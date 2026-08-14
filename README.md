@@ -110,17 +110,11 @@ ReviewWordFactDetail
                └── Category
 ```
 ### 1.3. The above diagram gives rise to three analytical layers 
-- **Wine & Commercial Analysis**
-  -- Price, ratings, value, wine varieties, vintages and geographical distribution.
+- **Wine & Commercial Analysis**: Price, ratings, value, wine varieties, vintages and geographical distribution.
+- **Wine Classification**: Wine styles and categories, allowing the reviews to be grouped into broader wine characteristics.
+- **Review Language & Text Analytics**: Flavours, families, categories, descriptors, attributes and canonical words extracted from unstructured review descriptions.
 
-2. Wine Classification
-
-Wine styles and categories, allowing the reviews to be grouped into broader wine characteristics.
-
-3. Review Language & Text Analytics
-
-Flavours, families, categories, descriptors, attributes and canonical words extracted from unstructured review descriptions.
-
+---
 
 ## 2. Key insights
 ### 2.1 What the critics are saying
