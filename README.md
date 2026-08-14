@@ -218,3 +218,26 @@ ReviewWordFactDetail
 - Older wines, particularly those from the 1930s to 1960s, could be explored further as potential collector-focused wines based on their age and review history.
 - The value-for-money analysis could be used to identify lower-priced varieties with relatively strong ratings for further exploration.
 - European and North American regions dominate the dataset, so further analysis could explore whether this reflects the global wine market or simply the composition of the review dataset.
+
+
+ # Author
+
+**Tshepo Mooketsi**
+
+Business Intelligence Analyst with 10 years of experience delivering analytics solutions across the telecoms and retail industries. Microsoft Certified Power BI Data Analyst Associate (PL-300) with expertise in SQL, Power BI, data warehousing, dashboard development, requirements analysis and stakeholder engagement.
+
+### Skills
+- Power BI
+- DAX
+- Power Query
+- Data Modelling
+- Business Analysis
+- Requirements Gathering
+- Data Warehousing (EDW)
+
+### Certifications
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- [View Microsoft Certification](Images/Power_BI_Certification.pdf)
+
+### Connect With Me
+- LinkedIn: [Tshepo Mooketsi](https://www.linkedin.com/in/tshepo-mooketsi-77b892116)
