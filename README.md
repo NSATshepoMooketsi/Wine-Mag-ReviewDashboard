@@ -125,10 +125,10 @@ ReviewWordFactDetail
 ### 2.1 Finding great wine without breaking the bank...
 
 
-· Bordeaux-style Red Blend and Bordeaux-style White Blend both appear in the top 10 most expensive varieties.
-· A large proportion of the older wines in the dataset fall between the 1930s and 1960s.
-· There appears to be a positive relationship between average wine price and average rating, although higher prices do not always correspond to higher ratings.
-· The value-for-money analysis highlights several lower-priced varieties that achieve relatively strong review scores.
+- Bordeaux-style Red Blend and Bordeaux-style White Blend both appear in the top 10 most expensive varieties.
+- A large proportion of the older wines in the dataset fall between the 1930s and 1960s.
+- There appears to be a positive relationship between average wine price and average rating, although higher prices do not always correspond to higher ratings.
+- The value-for-money analysis highlights several lower-priced varieties that achieve relatively strong review scores.
 
 ---
 ![Dashboard](Images/Where_great_wine_comes_from.png)
