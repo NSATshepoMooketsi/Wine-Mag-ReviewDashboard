@@ -130,7 +130,7 @@ ReviewWordFactDetail
 - The value-for-money analysis highlights several lower-priced varieties that achieve relatively strong review scores.
 
 ---
-![Dashboard](Images/Where_great_wine_comes_from.png)
+![Dashboard](Images/Finding_great_wine_without_breaking_the_bank.png)
 ----
 
 ### 2.3 Where great wine comes from 
@@ -142,4 +142,17 @@ ReviewWordFactDetail
 
 ---
 ![Dashboard](Images/Where_great_wine_comes_from.png)
+---
+
+### 2.4 What's in the glass
+
+- The reviews contain over 312,000 flavour mentions, showing how frequently taste characteristics appear in the critics' descriptions.
+- Cherry is the most frequently mentioned flavour at 21%, followed by Oak at 13%, Plum at 11% and Apple at 10%.
+- At family level, Oak and Red Berry dominate the descriptions, accounting for 21% and 20% of flavour mentions respectively.
+- Fruit is by far the largest flavour category, accounting for 51% of all flavour mentions, followed by Oak & Wood at 15% and Spice and Sweet at 9% each.
+- The progression from individual flavours to broader families and categories shows that although critics use hundreds of different words, many of these descriptions can be grouped into a smaller number of recurring flavour profiles.
+
+
+---
+![Dashboard](Images/Whats_In_The_Glass.png)
 ----
