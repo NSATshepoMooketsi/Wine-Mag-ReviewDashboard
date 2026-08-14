@@ -109,6 +109,18 @@ ReviewWordFactDetail
                ├── Attribute
                └── Category
 ```
+### 1.3. The above diagram gives rise to three analytical layers 
+- **Wine & Commercial Analysis**
+  -- Price, ratings, value, wine varieties, vintages and geographical distribution.
+
+2. Wine Classification
+
+Wine styles and categories, allowing the reviews to be grouped into broader wine characteristics.
+
+3. Review Language & Text Analytics
+
+Flavours, families, categories, descriptors, attributes and canonical words extracted from unstructured review descriptions.
+
 
 ## 2. Key insights
 ### 2.1 What the critics are saying
@@ -131,7 +143,7 @@ ReviewWordFactDetail
 
 ---
 ![Dashboard](Images/Finding_great_wine_without_breaking_the_bank.png)
-----
+---
 
 ### 2.3 Where great wine comes from 
 
@@ -155,4 +167,58 @@ ReviewWordFactDetail
 
 ---
 ![Dashboard](Images/Whats_In_The_Glass.png)
-----
+---
+
+### 2.5 Behind every tasting note
+
+- Critics place strong emphasis on freshness, structure and fruit character when describing wines.
+- Acidity, fruit and body are among the attributes mentioned most frequently.
+- Structure is the most frequently discussed descriptor category, followed by fruit character and quality.
+
+---
+![Dashboard](Images/Behind_every_tasking_note.png)
+---
+
+### 2.5 Meet the styles
+
+- Red and White wines dominate the reviews, accounting for 45% and 27% of all wine style mentions respectively.
+- Still Wine represents 88% of the classifications, with Sparkling Wine accounting for 6%.
+- The remaining categories, including Production Style, Dessert Wine and Fortified Wine, make up a much smaller proportion of the reviews.
+- Although traditional still wines dominate the dataset, the 28 individual styles reveal a much broader range of wines being discussed by critics.
+
+---
+![Dashboard](Images/Meet_The_Styles.png)
+---
+
+### 2.6 Every bottle has a story
+
+- Red and white wines dominate the wine styles represented in the reviews.
+- Still wine makes up the overwhelming majority of the broader wine style categories.
+---
+![Dashboard](Images/Every_Bottle_has_a_story.png)
+---
+
+### 2.7 Every sip tells a story
+
+- Red, Berry, Oak and Fruit are some of the most frequently mentioned flavour characteristics in the reviews.
+- Fruit is by far the largest flavour category, accounting for 51% of all flavour mentions.
+- Oak & Wood and Spice are also prominent flavour categories.
+---
+![Dashboard](Images/Every_sip_tells_a_story.png)
+---
+
+### 2.7 The language of wine
+
+- Critics use a wide range of words to describe the same characteristics of wine. Canonical word normalisation grouped variations of similar descriptors into common terms, making it easier to identify the language used most frequently.
+- Fresh is the most frequently used canonical descriptor, followed by Crisp, Fine and Ripe.
+- This shows how unstructured review text can be transformed into structured analytical data.
+---
+![Dashboard](Images/The_language_Of_Wine.png)
+---
+
+## 2. Recommendations 
+- The analysis suggests that wine variety may be more useful for comparison than individual wine titles, particularly for enthusiasts looking to explore different styles.
+- Increasing the number of reviews for individual wine titles could provide more information for collectors interested in specific vintages and wines.
+- Older wines, particularly those from the 1930s to 1960s, could be explored further as potential collector-focused wines based on their age and review history.
+- The value-for-money analysis could be used to identify lower-priced varieties with relatively strong ratings for further exploration.
+- European and North American regions dominate the dataset, so further analysis could explore whether this reflects the global wine market or simply the composition of the review dataset.
