@@ -139,6 +139,7 @@ ReviewWordFactDetail
 ![Dashboard](Images/Finding_great_wine_without_breaking_the_bank.png)
 ---
 
+
 ### 2.3 Where great wine comes from 
 
 - Europe and North America contain many of the higher-priced wine-producing regions in the dataset.
