@@ -128,6 +128,7 @@ ReviewWordFactDetail
 ![Dashboard](Images/What_the_critics_are_saying.png)
 ---
 
+
 ### 2.2 Finding great wine without breaking the bank
 
 - Bordeaux-style Red Blend and Bordeaux-style White Blend both appear in the top 10 most expensive varieties.
