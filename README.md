@@ -212,7 +212,7 @@ ReviewWordFactDetail
 ![Dashboard](Images/The_language_Of_Wine.png)
 ---
 
-## 2. Recommendations 
+## 3. Recommendations 
 - The analysis suggests that wine variety may be more useful for comparison than individual wine titles, particularly for enthusiasts looking to explore different styles.
 - Increasing the number of reviews for individual wine titles could provide more information for collectors interested in specific vintages and wines.
 - Older wines, particularly those from the 1930s to 1960s, could be explored further as potential collector-focused wines based on their age and review history.
