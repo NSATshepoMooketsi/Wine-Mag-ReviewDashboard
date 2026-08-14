@@ -203,6 +203,7 @@ ReviewWordFactDetail
 ![Dashboard](Images/Every_sip_tells_a_story.png)
 ---
 
+
 ### 2.7 The language of wine
 
 - Critics use a wide range of words to describe the same characteristics of wine. Canonical word normalisation grouped variations of similar descriptors into common terms, making it easier to identify the language used most frequently.
