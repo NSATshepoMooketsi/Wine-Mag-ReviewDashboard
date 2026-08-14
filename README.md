@@ -118,24 +118,18 @@ ReviewWordFactDetail
 
 ## 2. Key insights
 ### 2.1 What the critics are saying
-
 - There are 1.09 reviews per wine on average, suggesting that most wines in the dataset have only been reviewed once.
 - Pinot Noir has been reviewed the most, followed by Chardonnay and Cabernet varieties.
 - Most wines receive a rating between 86 and 91 points.
 - Wine variety appears to provide more opportunities for comparison than individual wine titles, with some varieties receiving substantially more reviews than others.
-
 ---
 ![Dashboard](Images/What_the_critics_are_saying.png)
 ---
-
-
 ### 2.2 Finding great wine without breaking the bank
-
 - Bordeaux-style Red Blend and Bordeaux-style White Blend both appear in the top 10 most expensive varieties.
 - A large proportion of the older wines in the dataset fall between the 1930s and 1960s.
 - There appears to be a positive relationship between average wine price and average rating, although higher prices do not always correspond to higher ratings.
 - The value-for-money analysis highlights several lower-priced varieties that achieve relatively strong review scores.
-
 ---
 ![Dashboard](Images/Finding_great_wine_without_breaking_the_bank.png)
 ---
