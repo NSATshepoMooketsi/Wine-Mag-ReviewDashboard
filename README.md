@@ -14,6 +14,7 @@ The other aim was to create a data-driven dashboard with a touch of creativity, 
 👉 **[Launch Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiYjVjNDEzMmItMGFkNC00YTM1LWI4ZDktMzgwMDU3ZjU3OTFjIiwidCI6IjJhYTYxN2E4LTI3NDItNDEwMi04NjgzLTFmYTMzZGE4Nzc3YiJ9&embedImagePlaceholder=true)**
 
 
+
 *Experience the interactive version of this dashboard in Power BI.*
 
 
